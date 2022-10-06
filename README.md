@@ -48,5 +48,5 @@ Repositório sobre o Amazon Athena
 - Criar visualizações selecionando colunas, criando filtros e parâmetros e selecionando Visual types para gráficos.
 
 ### Eliminar recursos
- - Exluir os elementos criados
+ - Excluir os elementos criados
 
